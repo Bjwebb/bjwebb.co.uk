@@ -4,7 +4,7 @@ layout: default
 
 ## About
 
-Hi, I'm Ben Webb, I currently lead on software development at [Open Data Services](http://opendataservices.coop/). 
+Hi, I'm Ben Webb, I'm a software developer and co-founder at [Open Data Services Co-operative](http://opendataservices.coop/). 
 
 ## This website
 
