@@ -1,4 +1,4 @@
 name: Ben Webb
-markdown: redcarpet
+markdown: kramdown
 highlighter: true
 permalink: pretty
