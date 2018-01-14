@@ -8,7 +8,7 @@ Hi, I'm Ben Webb, I'm a software developer and co-founder at [Open Data Services
 
 ## This website
 
-There's very little on this website on this webiste, but I hope to re-add more soon. For now you can still view the [old site](old.html).
+There's very little on this website, but I hope to re-add more soon. For now you can still view the [old site](old.html).
 
 
 ## Contact Me
